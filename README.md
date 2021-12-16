@@ -5,10 +5,10 @@
 
 Here are some ideas to get you started: pagina web de servicios capilares 
 
-- 🔭 I’m currently working on ...una pagina web para una amiga que tiene una peluqueria y vende productos capilares
+- 🔭 I’m currently working on ...una pagina web para un amigo emprendedor que tiene un local de comidas rapidas
 - 🌱 I’m currently learning ..crear un repositorio github.
 - 👯 I’m looking to collaborate on .emprendimientos personales y mujeres emprendedoras..
-- 🤔 I’m looking for help with .desarrollo de paginas ..para emprendedoras
+- 🤔 I’m looking for help with .desarrollo de paginas ..para emprendedores
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
